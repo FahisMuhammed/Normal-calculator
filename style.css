@@ -4,12 +4,13 @@ body {
     align-items: center;
     height: 100vh;
     margin: 0;
+}
 
 .calc{
     width: 400px;
     height: 600px;
     background: gray;
-    margin-left: 400px;
+    
     
 }
 #screen{
